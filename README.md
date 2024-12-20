@@ -4,7 +4,7 @@ Hi, I'm Pieter, a graduate in Computer Science and Information Systems from the 
 I have been working as a test automation engineer for a couple of years, and I really enjoy the creative problem solving and more people centric approach the role allows.<br/>
 I've also enjoyed working on projects here in my spare time, where I can challenge myself technically and creatively and keep my skills fresh! <br/>
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <p>
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
